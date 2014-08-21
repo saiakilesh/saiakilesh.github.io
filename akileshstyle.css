@@ -3,6 +3,6 @@ body {
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: 20%;
-    background-position: 0px, 100px;
+    background-position: 100px, 100px;
     background-repeat: no-repeat;
 }
