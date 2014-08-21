@@ -1,8 +1,8 @@
 body { 
-    background: url('http://static3.businessinsider.com/image/51b0999feab8ea055a000000/25-reasons-why-chicago-is-the-most-underrated-city-in-america.jpg') repeat-y fixed; 
+    background: url('http://www.tripadvisor.com/Tourism-g60763-New_York_City_New_York-Vacations.html#photos'); 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
-    background-size: 15%;
+    background-size: 100%;
     background-position: 0, 40px
 }
