@@ -1,20 +1,16 @@
-body { 
-    background: url('https://scontent-a-lga.xx.fbcdn.net/hphotos-xap1/v/t1.0-9/994593_417898391653844_767177832_n.jpg?oh=82e32d109c3f27612a5c062eb4b931da&oe=547F2052');  
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: 0%;
-    background-position: 0, 681px
+
+
+#main_top {
+    background-image:url('https://scontent-a-lga.xx.fbcdn.net/hphotos-xap1/v/t1.0-9/994593_417898391653844_767177832_n.jpg?oh=82e32d109c3f27612a5c062eb4b931da&oe=547F2052');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 500px;
 }
 
-@media (max-width: 979px){
+@media (max-width: 767px){
     body{
-      padding-left:0 !important;
-      padding-right: 0 !important;
+    padding-left:0 !important;
+    padding-right: 0 !important;
     }
-
-   .navbar-fixed-top {
-      margin-bottom: 0px !important;
-   } 
-
 }
