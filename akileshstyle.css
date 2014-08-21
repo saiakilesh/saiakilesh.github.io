@@ -8,7 +8,7 @@
     height: 500px;
 }
 
-@media (max-width: 767px){
+@media (max-width: 681px){
     body{
     padding-left:0 !important;
     padding-right: 0 !important;
