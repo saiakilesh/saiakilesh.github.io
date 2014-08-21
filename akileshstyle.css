@@ -1,7 +1,7 @@
 .bg
 {
-  position: absolute;
-  width: 100%;
-  left: 0px;
-  top: 41px;
+  height: auto;
+  margin: 0;
+  max-width: 940px;
+  width: auto;
 }
