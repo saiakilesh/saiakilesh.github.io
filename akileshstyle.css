@@ -47,17 +47,10 @@ background-color: black;
    color: black ; /*Change active text color here*/
     }
     
-    #heading h1 {
+#heading h1 {
   font-size: 90px;
   line-height: 105px;
   letter-spacing: -1px;
   color: #ffffff;
 }
 
-#heading h4 {
-  font-size: 30px;
-  line-height: 40px;
-  color: #ffffff;
-  margin-bottom: 25px;
-}
-    
