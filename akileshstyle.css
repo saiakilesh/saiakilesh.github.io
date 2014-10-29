@@ -20,8 +20,8 @@ color: #097054;  /*Sets the text hover color on navbar*/
 
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active >   
  a:hover, .navbar-default .navbar-nav > .active > a:focus {
-color: #097054; /*BACKGROUND color for active*/
-background-color: white;
+color: white; /*BACKGROUND color for active*/
+background-color: #097054;
 }
 
   .navbar-default {
