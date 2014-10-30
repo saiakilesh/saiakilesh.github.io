@@ -24,6 +24,11 @@ color: black; /*BACKGROUND color for active*/
 background-color: black;
 }
 
+#image{
+  margin-top: -500px;
+  
+}
+
   .navbar-default {
     background-color: #097054;
     border-color: #030033;
