@@ -61,7 +61,7 @@ background-color: black;
 }
 
 #image1{
-  
+  display: block;
   margin-top:20px;
 }
 
