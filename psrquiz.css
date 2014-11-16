@@ -1,11 +1,11 @@
-.body{
+body{
   color: black;
   background-color: #C9FFE5;
   font-size: 50px;
   font-family: Verdana;
 }
 
-.img{
-  
+img{
+  display: block;
    margin-right: 700px;
 }
