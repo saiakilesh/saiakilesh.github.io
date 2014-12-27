@@ -11,7 +11,7 @@
 }
 
 .navbar-inverse .navbar-header  a {
-	color: #FFFFFF;
+	color: #000000;
 	font-size: 30px;
 	font-weight: 600;
 	font-family: Courier;
@@ -21,6 +21,4 @@
 	color: #000000;
 }
 
-.navbar-inverse .navbar-header  a:hover {
-	color: #000000;
-}
+
