@@ -1,3 +1,7 @@
 .navbar{
   background: #ffffff;
 }
+
+.navbar-brand{
+  float:left;
+}
