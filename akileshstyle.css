@@ -21,4 +21,8 @@
 	color: #000000;
 }
 
-
+#white {
+	padding-top: 20px;
+	padding-bottom: 20px;
+	background-color: #ffffff;
+}
