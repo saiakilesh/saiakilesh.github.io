@@ -13,6 +13,7 @@
 .navbar-inverse .navbar-header  a {
 	color: #FFFFFF;
 	font-size: 30px;
+	font-weight: 700;
 }
 
 .navbar-inverse .navbar-nav > li > a:hover {
