@@ -3,6 +3,6 @@
   text-transform: uppercase;
 }
 
-.Home{
-  color: #OOOOOO
+.navbar-inverse .navbar-nav > li > a {
+	color: white;
 }
