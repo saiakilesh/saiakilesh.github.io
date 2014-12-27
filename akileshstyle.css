@@ -18,6 +18,6 @@
 	color: #FFBF00;
 }
 
-.navbar-inverse .navbar-header  a {
+.navbar-inverse .navbar-header  a:hover {
 	color: #FFBF00;
 }
