@@ -19,3 +19,15 @@
   .main section.page1 {
       background:rgb(230, 217, 200);
     }
+
+  .main section.page1 h1 {
+      float: none;
+      max-width: 435px;
+      width: 100%;
+      display: block;
+      text-align: center;
+      padding: 0;
+      margin-bottom: 15px;
+      font-size: 44px;
+      color: black;
+    } 
