@@ -1,0 +1,21 @@
+ .main {
+      float: left;
+      width: 100%;
+      margin: 0 auto;
+    }
+    
+  .main section .page_container {
+      position: relative;
+      top: 16%;
+      margin: 0 auto 0;
+      max-width: 950px;
+      z-index: 3;
+    }
+    
+  .main section  {
+      overflow: hidden;
+    }
+    
+  .main section.page1 {
+      background:rgb(230, 217, 200);
+    }
