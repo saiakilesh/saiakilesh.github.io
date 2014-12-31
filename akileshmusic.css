@@ -9,7 +9,7 @@
       top: 16%;
       margin: 0 auto 0;
       max-width: 950px;
-      z-index: 3;
+      z-index: -1;
     }
     
   .main section  {
