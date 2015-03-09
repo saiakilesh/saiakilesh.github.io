@@ -57,5 +57,6 @@
 h1 {
   position: relative;
   top: 400px;
-  left: 800px;
+  left: 1000px;
+  font-size: 50px;
 }
