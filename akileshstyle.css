@@ -69,3 +69,8 @@
 footer {
 	background-color: #FFFFFF;
 }
+
+footer ul
+{
+list-style-type: none;
+}
