@@ -55,9 +55,10 @@
 	color: #000000;
 }
 
-.col-md-6 {
-  position: relative;
-  top: 400px;
-  left: 500px;
+.col-md-8 {
+  font-size: 100px;
+}
+
+.col-md-4 {
   font-size: 100px;
 }
