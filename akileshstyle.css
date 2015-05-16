@@ -59,17 +59,14 @@
   font-size: 100px;
 }
 
-.col-md-12 {
+.col-md-12 #akilesh{
   font-size: 20px;
   font-family: 'Open Sans', sans-serif;
   text-align: center;
   font-weight: 300;
 }
 
-#akilesh {
-   font_size: 100px;	
-	
-}
+
 
 footer {
 	background-color: #FFFFFF;
@@ -80,6 +77,6 @@ footer ul
 list-style-type: none;
 }
 
-a .fa {
+a {
 color: #000000;
 }
