@@ -6,10 +6,10 @@ body { padding-top: 40px; }
 }
 
 /* Full-Screen Background */
-img{
+.container-fluid{
+    background-image: url('http://www.eserc.stonybrook.edu/glenn/GraphPaper/00-20-16-20-20.png');
     background-repeat: repeat;
 }
-
 /* Jumbotron CSS */
 .jumbotron {
     background-color: #FFD700;;
