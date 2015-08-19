@@ -1,6 +1,4 @@
-.navbar {
-  background-color: #FF0000;
-}
+/* Padding for body, so it does navbar doesn't overlap with content */ 
 
 body { padding-top: 70px; }
 @media screen and (max-width: 768px) {
