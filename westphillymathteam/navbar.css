@@ -5,7 +5,6 @@ body { padding-top: 40px; }
     body { padding-top: 0px; }
 }
 
-/* Full-Screen Background */
 .container-fluid{
     background-color: #FF8566;
     height: 450px;
@@ -14,5 +13,6 @@ body { padding-top: 40px; }
 .jumbotron {
     margin-bottom:0;
     background-color: #FFD700;
+    opacity: 0.4;
 }
 
