@@ -7,9 +7,7 @@ body { padding-top: 40px; }
 
 /* Full-Screen Background */
 .container-fluid{
-    
-    background-image: url('http://cdn.printablepaper.net/samples/grid-portrait-ledger-2-index.png');
-    background-repeat: repeat;
+    background-color: #FF8566;
     height: 450px;
 }
 /* Jumbotron CSS */
