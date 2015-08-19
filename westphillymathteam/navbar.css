@@ -7,7 +7,7 @@ body { padding-top: 70px; }
 
 /* Full Screen Background */
 
-.row {
+.container{
   background-color: #FFD700;
 }
 
