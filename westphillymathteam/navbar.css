@@ -12,7 +12,7 @@ body { padding-top: 40px; }
 }
 /* Jumbotron CSS */
 .jumbotron {
-    padding-bottom: -50px;
+    margin-bottom:0
     background-color: #FFD700;;
 }
 
