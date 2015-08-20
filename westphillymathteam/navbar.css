@@ -17,13 +17,9 @@ body { padding-top: 40px; }
     height: 450px;
 }
 
-.navbar-default {
-    background-color: #FFD700;
-    border-color: #E7E7E7;
-}
-
-.navbar-inverse a {
-    color: #000000;
+.navbar-inverse {
+	background-color: #0099CC;
+	border-color: #0066CC;
 }
 
 
