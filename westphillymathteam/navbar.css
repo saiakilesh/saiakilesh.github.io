@@ -22,15 +22,8 @@ body { padding-top: 40px; }
     border-color: #E7E7E7;
 }
 
-.navbar-default > .container {
-    background-color: #FFD700;
-}
-
-.navbar > a {
+.navbar-inverse > a {
     color: #000000;
 }
 
-.navbar-default > #navbar {
-    background-color: #FFD700;
-}
 
