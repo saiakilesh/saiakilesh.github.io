@@ -15,8 +15,11 @@ body { padding-top: 40px; }
     background-color: #FFD700;
     opacity: 0.4;
     height: 450px;
+    padding: 30px;
 }
 
-
+.navbar-inverse {
+  background-color: #FFD700;
+}
 
 
