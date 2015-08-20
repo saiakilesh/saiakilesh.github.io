@@ -24,6 +24,10 @@ body { padding-top: 40px; }
 
 .navbar > .container {
     background-color: #FFD700;
-    height: 100px;
+}
+
+.navbar-default .navbar-nav > .active > a {
+    background-color: #FFD700;
+    color: #FFFFFF;
 }
 
