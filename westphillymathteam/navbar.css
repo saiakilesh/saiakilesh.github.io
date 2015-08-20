@@ -27,7 +27,10 @@ body { padding-top: 40px; }
 }
 
 .navbar-default .navbar-nav > .active > a {
-    background-color: #FFD700;
     color: #FFFFFF;
+}
+
+.navbar-default .navbar-nav > .active {
+    background-color: #FFD700;
 }
 
