@@ -22,3 +22,7 @@ body { padding-top: 40px; }
     border-color: #E7E7E7;
 }
 
+.navbar > .container {
+    background-color: #FFFFFF;
+}
+
