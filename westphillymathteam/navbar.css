@@ -22,7 +22,7 @@ body { padding-top: 40px; }
     border-color: #E7E7E7;
 }
 
-.navbar-inverse > a {
+.navbar-inverse a {
     color: #000000;
 }
 
