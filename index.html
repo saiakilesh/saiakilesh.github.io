@@ -84,6 +84,11 @@
         color: white;
         opacity: 0.6;
       }
+  
+      .akil-rotator {
+        font-size: 40px;
+        color: black;
+      }
     </style>
   </head>
 
@@ -117,7 +122,8 @@
     <div class="container">
       <img src = "https://c2.staticflickr.com/4/3805/9514526539_fe61ee3470_b.jpg" class = "bg">
       <div class="row content">
-          <div class="col-md-12">
+          <div class="col-md-12 akil-rotator">
+            Super <span class="rotate">Simple, Customizable, Light Weight, Easy</span> Text Rotator with Style
           </div>
       </div>
     </div>
@@ -133,6 +139,15 @@
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
     <script src="http://getbootstrap.com/assets/js/ie10-viewport-bug-workaround.js"></script>
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+    <script src="http://saiakilesh.github.io/jquery.simple-text-rotator.js"></script>
+    <script>
+      $(".rotate").textrotator({
+      animation: "dissolve", // You can pick the way it animates when rotating through words. Options are dissolve (default), fade, flip, flipUp, flipCube, flipCubeUp and spin.
+      separator: ",", // If you don't want commas to be the separator, you can define a new separator (|, &, * etc.) by yourself using this field.
+      speed: 2000 // How many milliseconds until the next word show.
+      });
+    </script>
   </body>
 </html>
 
