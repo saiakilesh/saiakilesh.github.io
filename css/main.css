@@ -132,7 +132,7 @@ summary.alpha {
 }
 
 summary.beta {
-    font-family: GillSansNova-Book;
+    font-family: Radikal;
     font-size: 20px;
     margin-top: 0.5em;
     line-height: 1.2;
@@ -147,7 +147,7 @@ summary.beta {
 }
 
 summary.gamma {
-    font-family: GillSansNova-Book;
+    font-family: Radikal;
     font-weight: lighter;
     font-size: 18px;
     line-height: 1.4;
@@ -177,7 +177,7 @@ ul {
 }
 
 ul.beta {
-    font-family: GillSansNova-Book;
+    font-family: Radikal;
     font-size: 20px;
     font-weight: normal;
     line-height: 1.6;
@@ -208,7 +208,7 @@ ul.gamma {
 }
 
 ol.beta {
-    font-family: GillSansNova-Book;
+    font-family: Radikal;
     font-size: 20px;
     font-weight: normal;
     line-height: 1.2;
