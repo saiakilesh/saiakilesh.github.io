@@ -1,0 +1,34 @@
+/**
+ * @license
+ * MyFonts Webfont Build ID 3129899, 2015-11-23T09:54:08-0500
+ * 
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are 
+ * explicitly restricted from using the Licensed Webfonts(s).
+ * 
+ * You may obtain a valid license at the URLs below.
+ * 
+ * Webfont: GillSansNova-Book by Monotype 
+ * URL: http://www.myfonts.com/fonts/mti/gill-sans-nova/book/
+ * 
+ * Webfont: GillSansNova-BookItalic by Monotype 
+ * URL: http://www.myfonts.com/fonts/mti/gill-sans-nova/book-italic/
+ * 
+ * 
+ * License: http://www.myfonts.com/viewlicense?type=web&buildid=3129899
+ * Licensed pageviews: 250,000
+ * Webfonts copyright: Copyright 2015 &#x00A9; The Monotype Corporation. All rights reserved.
+ * 
+ * Â© 2015 MyFonts Inc
+*/
+
+
+/* @import must be at top of file, otherwise CSS will not work */
+@import url("//hello.myfonts.net/count/2fc22b");
+
+  
+@font-face {font-family: 'GillSansNova-Book';src: url('webfonts/2FC22B_0_0.eot');src: url('webfonts/2FC22B_0_0.eot?#iefix') format('embedded-opentype'),url('webfonts/2FC22B_0_0.woff2') format('woff2'),url('webfonts/2FC22B_0_0.woff') format('woff'),url('webfonts/2FC22B_0_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'GillSansNova-BookItalic';src: url('webfonts/2FC22B_1_0.eot');src: url('webfonts/2FC22B_1_0.eot?#iefix') format('embedded-opentype'),url('webfonts/2FC22B_1_0.woff2') format('woff2'),url('webfonts/2FC22B_1_0.woff') format('woff'),url('webfonts/2FC22B_1_0.ttf') format('truetype');}
+ 
